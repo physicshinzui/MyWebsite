@@ -1,0 +1,21 @@
+
+div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+    font-family: courier;
+    font-size: 20px;
+}
+
+
+@media screen and (max-width: 481px){
+
+    div {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-right: 20px;
+        margin-left: 20px;
+        font-family: courier;
+        font-size: 14px;
+    }
